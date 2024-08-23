@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Anna Parker",
+    "photo": "https://i.pinimg.com/originals/da/fd/f2/dafdf25168edcb2f0e1d8702797946cc.jpg",
+    "description": "Data Scientist at DataWorks",
+    "address": "123 Elm Street, Springfield, IL"
+  },
+  {
+    "id": 2,
+    "name": "David Lee",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQETDxPh6DYLLBjTVUnvuNaDeEJJgPaXGMfmTHnlsgDzV-yXYKKGvib3FuY_B_cDbWvKxg",
+    "description": "Marketing Specialist at Brandify",
+    "address": "456 Oak Avenue, Seattle, WA"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Martinez",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfnQ82FzIKSlMFrgPxUBsNKmk1bV0nHSj7VsXp3aOtg61KgoEnDGzrMmebowQK7wsXwUM",
+    "description": "Web Developer at CodeCraft",
+    "address": "789 Pine Lane, Portland, OR"
+  },
+  {
+      "id": 4,
+      "name": "Lucas Brown",
+      "photo": "https://image3.photobiz.com/8929/35_20220824195554_6565770_xlarge.jpg",
+      "description": "Team Lead at TechHive",
+      "address": "101 Maple Street, Austin, TX"
+    },
+    {
+      "id": 5,
+      "name": "Mia Johnson",
+      "photo": "https://i.pinimg.com/236x/54/6b/2d/546b2d4e9bddbcb894fa8e416739339b.jpg",
+      "description": "Front-End Developer",
+      "address": "202 Birch Road, Denver, CO"
+    },
+    {
+      "id": 6,
+      "name": "Zoe Lee",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1X2ET-9_TKUwltHPtXn4f6ictqIu81N0RDHWSIiPwZ0XAiCdozZTWICFI4zaxXBrxWP8",
+      "description": "QA Engineer",
+      "address": "303 Cedar Drive, Miami, FL"
+    },
+    {
+      "id": 7,
+      "name": "Ryan Patel",
+      "photo": "https://i.pinimg.com/originals/3f/e9/fe/3fe9fe7f0573b76d84f1bc313e43c98d.jpg",
+      "description": "Software Engineer at CodeStream",
+      "address": "404 Fir Street, San Diego, CA"
+    },
+    {
+    "id": 8,
+    "name": "Olivia Turner",
+    "photo": "https://i.pinimg.com/736x/c4/a6/ad/c4a6ad3a4bdcd5a8d5425f2afa2f81c6.jpg",
+    "description": "Junior Developer",
+    "address": "505 Spruce Avenue, Boston, MA"
+  },
+  {
+      "id": 9,
+      "name": "Ethan Wright",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjxpGS4lz51NbdOte0PlkTCYKgQOEjut_4kw",
+      "description": "Product Tester",
+      "address": "606 Willow Lane, Nashville, TN"
+    },
+    {
+      "id": 10,
+      "name": "Emma Davis",
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg",
+      "description": "Sales Manager",
+      "address": "707 Pine Street, Philadelphia, PA"
+    },
+    {
+      "id": 11,
+      "name": "Ava White",
+      "photo": "https://i.pinimg.com/736x/08/16/eb/0816ebc536f6ced30e394c3f46e36ef5.jpg",
+      "description": "Software Architect",
+      "address": "808 Walnut Drive, Charlotte, NC"
+    },
+    {
+      "id": 12,
+      "name": "Liam Scott",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCork-5qLrs7wXRsRfURPhEJktk5vPlxsxA&usqp=CAU",
+      "description": "Backend Developer at CodeWorks",
+      "address": "909 Chestnut Road, Minneapolis, MN"
+    },
+    {
+      "id": 13,
+      "name": "Isabella Miller",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1bpO0XDD8fbmRvnbnkCoQNFFoH3AqofVTg&usqp=CAU",
+      "description": "System Analyst",
+      "address": "1010 Maple Avenue, Kansas City, MO"
+    },
+    {
+      "id": 14,
+      "name": "Noah Wilson",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCork-5qLrs7wXRsRfURPhEJktk5vPlxsxA&usqp=CAU",
+      "description": "Project Manager",
+      "address": "1111 Elm Street, Orlando, FL"
+    },
+    {
+      "id": 15,
+      "name": "Mason Clark",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsynwv-5qtogtOwJbIjaPFJUmHpzhxgqIAug&usqp=CAU",
+      "description": "Database Administrator",
+      "address": "1212 Oak Lane, Salt Lake City, UT"
+    },
+    {
+      "id": 16,
+      "name": "Charlotte Evans",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCork-5qLrs7wXRsRfURPhEJktk5vPlxsxA&usqp=CAU",
+      "description": "Financial Analyst",
+      "address": "1313 Birch Street, Richmond, VA"
+    },
+    {
+      "id": 17,
+      "name": "William Taylor",
+      "photo": "https://randomuser.me/api/portraits/men/2.jpg",
+      "description": "Hardware Engineer",
+      "address": "1414 Cedar Avenue, Seattle, WA"
+    },
+    {
+      "id": 18,
+      "name": "Ava Lewis",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCork-5qLrs7wXRsRfURPhEJktk5vPlxsxA&usqp=CAU",
+      "description": "Product Designer",
+      "address": "1515 Fir Road, Denver, CO"
+    },
+  {
+      "id": 19,
+      "name": "James Adams",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7oMra0QkSp_Z-gShMOcCIiDF5gc_0VKDKDg&usqp=CAU",
+      "description": "Data Analyst",
+      "address": "1616 Willow Drive, Miami, FL"
+    },
+    {
+      "id": 20,
+      "name": "Grace Brown",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsynwv-5qtogtOwJbIjaPFJUmHpzhxgqIAug&usqp=CAU",
+      "description": "Technical Support Specialist",
+      "address": "1717 Pine Street, Atlanta, GA"
+    }
+]
